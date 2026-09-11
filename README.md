@@ -4,7 +4,7 @@ A minimal PHP client for generating [Thumbor](https://github.com/globocom/thumbo
 
 This repo was forked out of the [original 99designs/phumbor](https://github.com/99designs/phumbor) library after the 1.2.2 release.
 
-[![Build Status](https://travis-ci.org/webfactory/phumbor.svg?branch=master)](https://travis-ci.org/webfactory/phumbor)
+[![Build Status](https://travis-ci.org/webfactory/phumbor.svg?branch=main)](https://travis-ci.org/webfactory/phumbor)
 
 ## Usage
 
